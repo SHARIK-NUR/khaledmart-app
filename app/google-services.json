@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919099445263",
+    "project_id": "khaled-mart",
+    "storage_bucket": "khaled-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919099445263:android:003c20730dd6958998537a",
+        "android_client_info": {
+          "package_name": "com.example.khaledmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919099445263-dgbcbfmmv7lc7v7p70tnjo9a97pqbrsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3VhmmXDee3ZGHWLVil1A1L_rRwFrgms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919099445263-dgbcbfmmv7lc7v7p70tnjo9a97pqbrsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
